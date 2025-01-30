@@ -43,3 +43,18 @@ merge all data tables into one dashboard and apply slicer to make dynamic.
 
 
  ## Dashboard Interaction 
+
+https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard-HR-ANALYTICS-DASHBOARD-/blob/main/powerbi1_page-0001.jpg
+
+![powerbi1_page-0001](https://github.com/user-attachments/assets/251f9f39-285f-406c-a64a-8450273acb0f)
+
+
+## Project Conclusion 
+
+created interactive dashboard to track and analyze employee performance, and other data relevant to the operation of the oragnisation. 
+
+used complex parameters to drill down in worksheet and customization using filters and slicers. 
+
+created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations 
+
+used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc) 
